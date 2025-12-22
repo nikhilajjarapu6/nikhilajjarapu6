@@ -2,7 +2,7 @@
 <h3 align="center">Java Fullstack Developer | Problem Solver</h3>
 
 <p align="center">
-  <a href="https://github.com/nikhilajjarapu6">GitHub</a> • <a href="mailto:your-email@example.com">Email</a>
+  <a href="https://github.com/nikhilajjarapu6">GitHub</a> • <a href="mailto:ajjarapunikhil@gmail.com">Email</a>
 </p>
 
 ---
