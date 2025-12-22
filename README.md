@@ -21,11 +21,11 @@
 
 **Languages:** Java | Python | JavaScript | SQL | HTML | CSS
 
-**Backend:** Spring Boot | Hibernate | REST APIs | Maven
+**Backend:** Spring Boot |Fast API| Hibernate | REST APIs | Maven |SQLAlchmey
 
 **Databases:** MySQL | JDBC
 
-**Tools:** Git | GitHub | VS Code | IntelliJ IDEA
+**Tools:** Git | GitHub | VS Code | Eclipse | Postman
 
 ---
 
