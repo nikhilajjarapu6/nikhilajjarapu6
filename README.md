@@ -27,6 +27,12 @@
 
 **Tools:** Git | GitHub | VS Code | Eclipse | Postman
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge)
+
+
 ---
 
 ### Featured Projects
