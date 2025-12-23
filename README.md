@@ -1,5 +1,6 @@
 <h1 align="center">Hi , I'm Nikhil </h1>
-<h3 align="center">Java Fullstack Developer | Problem Solver</h3>
+<h3 align="center">Java| Python | Backend Developer</h3>
+![Profile Views](https://komarev.com/ghpvc/?username=nikhilajjarapu6&style=for-the-badge)
 
 <p align="center">
   <a href="https://github.com/nikhilajjarapu6">GitHub</a> • <a href="mailto:ajjarapunikhil@gmail.com">Email:ajjarapunikhil@gmail.com</a>
