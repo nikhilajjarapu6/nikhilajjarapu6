@@ -57,9 +57,10 @@
 - **[SPA](https://github.com/nikhilajjarapu6/SPA)** - Single page application
 
 ---
-![Nikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikhilajjarapu6&show_icons=true&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com?user=nikhilajjarapu6&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilajjarapu6&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nikhilajjarapu6&show_icons=true&hide_title=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=nikhilajjarapu6)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilajjarapu6&layout=compact)
+
 
 
 ### Key Competencies
