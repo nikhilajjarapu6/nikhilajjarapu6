@@ -71,8 +71,9 @@
 ### Let's Connect
 
 GitHub: [@nikhilajjarapu6](https://github.com/nikhilajjarapu6)
-![Profile Views](https://komarev.com/ghpvc/?username=nikhilajjarapu6&style=for-the-badge)
 Open to collaborations, contributions, and discussions!
+![Profile Views](https://komarev.com/ghpvc/?username=nikhilajjarapu6&label=Profile%20views&color=0e75b6&style=flat)
+
 
 ---
 
